@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="omalley"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/security/token"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1167374"
+   kind="dir"
+   committed-date="2011-09-09T22:07:35.898461Z"/>
+<entry
+   name="DelegationTokenRenewal.java"
+   checksum="e943646bd79042118535438d5f6ab7d1"
+   last-author="omalley"
+   committed-rev="1167374"
+   text-time="2011-09-09T22:07:35.000000Z"
+   kind="file"
+   committed-date="2011-09-09T22:07:35.898461Z"/>
+<entry
+   name="JobTokenIdentifier.java"
+   checksum="45dad8e90a976f9c1fec5812b87a0c4d"
+   last-author="omalley"
+   committed-rev="1167374"
+   text-time="2011-09-09T22:07:35.000000Z"
+   kind="file"
+   committed-date="2011-09-09T22:07:35.898461Z"/>
+<entry
+   name="JobTokenSecretManager.java"
+   checksum="070eeb2abc78df352c385a3bb5fc6bfa"
+   last-author="omalley"
+   committed-rev="1077150"
+   text-time="2011-03-04T03:46:18.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:46:18.693228Z"/>
+<entry
+   name="JobTokenSelector.java"
+   checksum="3e23dfb9490372897a512bf846d76bf4"
+   last-author="omalley"
+   committed-rev="1077150"
+   text-time="2011-03-04T03:46:18.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:46:18.693228Z"/>
+<entry
+   name="delegation"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="omalley"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1077729"
+   kind="dir"
+   committed-date="2011-03-04T04:49:05.755344Z"/>
+<entry
+   name="DeleteJobEvent.java"
+   checksum="2117060f1bcffa88fe2f10d4e019f85d"
+   last-author="omalley"
+   committed-rev="1077322"
+   text-time="2011-03-04T04:03:23.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:03:23.252439Z"/>
+<entry
+   name="JobCompletedEvent.java"
+   checksum="2823cf2c5701d8d9fa12cec26dfb4414"
+   last-author="omalley"
+   committed-rev="1077322"
+   text-time="2011-03-04T04:03:23.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:03:23.252439Z"/>
+<entry
+   name="JobStartedEvent.java"
+   checksum="9d85d7096b223658ce8a7b235c198c61"
+   last-author="omalley"
+   committed-rev="1077322"
+   text-time="2011-03-04T04:03:23.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:03:23.252439Z"/>
+<entry
+   name="JvmFinishedEvent.java"
+   checksum="b387231699f2b29df67cc039b9b0dc3e"
+   last-author="omalley"
+   committed-rev="1077322"
+   text-time="2011-03-04T04:03:23.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:03:23.252439Z"/>
+<entry
+   name="UserLogEvent.java"
+   checksum="aea0be7c661372ca3505095a4e54b481"
+   last-author="omalley"
+   committed-rev="1077322"
+   text-time="2011-03-04T04:03:23.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:03:23.252439Z"/>
+<entry
+   name="UserLogManager.java"
+   checksum="59d01f8c119fc20d64de083060be921f"
+   last-author="omalley"
+   committed-rev="1077729"
+   text-time="2011-03-04T04:49:05.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:49:05.755344Z"/>
+</wc-entries>

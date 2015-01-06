@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="omalley"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/example"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="726853"
+   kind="dir"
+   committed-date="2008-12-15T22:22:18.007374Z"/>
+</wc-entries>

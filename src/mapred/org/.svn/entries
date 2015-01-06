@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="llu"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1425185"
+   kind="dir"
+   committed-date="2012-12-21T23:19:09.600251Z"/>
+<entry
+   name="apache"
+   kind="dir"/>
+</wc-entries>

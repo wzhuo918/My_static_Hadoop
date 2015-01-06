@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="amarrk"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/lib/map"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1185694"
+   kind="dir"
+   committed-date="2011-10-18T14:45:48.383653Z"/>
+<entry
+   name="InverseMapper.java"
+   checksum="974b143dc8ebd9918dec704ae1f608f6"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="MultithreadedMapper.java"
+   checksum="7fb013dfc2827f4106d903b08f7ddb9a"
+   last-author="amarrk"
+   committed-rev="1185694"
+   text-time="2011-10-18T14:45:48.000000Z"
+   kind="file"
+   committed-date="2011-10-18T14:45:48.383653Z"/>
+<entry
+   name="TokenCounterMapper.java"
+   checksum="f6dacd62cec3f6b491a71c00d7286d0b"
+   last-author="omalley"
+   committed-rev="729055"
+   text-time="2008-12-23T18:22:48.000000Z"
+   kind="file"
+   committed-date="2008-12-23T18:22:48.516639Z"/>
+</wc-entries>

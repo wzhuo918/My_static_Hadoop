@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="tomwhite"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/lib/fieldsel"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1235548"
+   kind="dir"
+   committed-date="2012-01-24T23:21:58.562154Z"/>
+<entry
+   name="FieldSelectionHelper.java"
+   checksum="6c8b8bd5ba0f05782a76867a6b3b070b"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="FieldSelectionMapper.java"
+   checksum="c78adb900d0310f7c8f6539932841dce"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="FieldSelectionReducer.java"
+   checksum="12ecdd5667cf3dfcb1845467ff3411b8"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+</wc-entries>

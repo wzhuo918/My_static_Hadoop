@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="omalley"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1164742"
+   kind="dir"
+   committed-date="2011-09-02T22:11:15.371842Z"/>
+<entry
+   name="JVMInfo.java"
+   checksum="d39a05041e3a33317e91d696686a96d5"
+   last-author="omalley"
+   committed-rev="1077418"
+   text-time="2011-03-04T04:12:53.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:12:53.180811Z"/>
+<entry
+   name="Localizer.java"
+   checksum="e3eaa1196157d33e21bb4bbe2804c0e1"
+   last-author="omalley"
+   committed-rev="1164742"
+   text-time="2011-09-02T22:11:15.000000Z"
+   kind="file"
+   committed-date="2011-09-02T22:11:15.371842Z"/>
+<entry
+   name="userlogs"
+   kind="dir"/>
+</wc-entries>

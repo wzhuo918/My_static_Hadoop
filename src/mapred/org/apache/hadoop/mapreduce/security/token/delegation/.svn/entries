@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="omalley"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/security/token/delegation"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1167374"
+   kind="dir"
+   committed-date="2011-09-09T22:07:35.898461Z"/>
+<entry
+   name="DelegationTokenIdentifier.java"
+   checksum="32da5fab7b5c047f38198c9f32ba4886"
+   last-author="omalley"
+   committed-rev="1167374"
+   text-time="2011-09-09T22:07:35.000000Z"
+   kind="file"
+   committed-date="2011-09-09T22:07:35.898461Z"/>
+<entry
+   name="DelegationTokenSecretManager.java"
+   checksum="d4d3f15ca41ca31da6017040b2c626a0"
+   last-author="omalley"
+   committed-rev="1077160"
+   text-time="2011-03-04T03:47:22.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:47:22.674910Z"/>
+<entry
+   name="DelegationTokenSelector.java"
+   checksum="d2db9f3dbb0cc2bdfcf89da624bf0aab"
+   last-author="omalley"
+   committed-rev="1077160"
+   text-time="2011-03-04T03:47:22.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:47:22.674910Z"/>
+</wc-entries>

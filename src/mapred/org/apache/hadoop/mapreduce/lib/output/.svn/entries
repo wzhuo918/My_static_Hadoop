@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="tomwhite"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/lib/output"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1235548"
+   kind="dir"
+   committed-date="2012-01-24T23:21:58.562154Z"/>
+<entry
+   name="FileOutputCommitter.java"
+   checksum="72b32fcee9d6e8c9a63d31bc2ea9cf39"
+   last-author="omalley"
+   committed-rev="1077050"
+   text-time="2011-03-04T03:35:41.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:35:41.133539Z"/>
+<entry
+   name="FileOutputFormat.java"
+   checksum="ab22a796effc6699d2cfee77f34b3989"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"/>
+<entry
+   name="FileOutputFormat_Counter.properties"
+   checksum="1c6e26d4d0d7f5ac0f3e1dad36d37f45"
+   last-author="omalley"
+   committed-rev="1077777"
+   text-time="2011-03-04T04:54:19.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:54:19.623240Z"/>
+<entry
+   name="FilterOutputFormat.java"
+   checksum="efbc0e550ce5333814873de1af1889fc"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="LazyOutputFormat.java"
+   checksum="08a9afcc59dcc89875dd40561a89221f"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="MultipleOutputs.java"
+   checksum="2a60c937d662b1e65b0f0501710f58d5"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="NullOutputFormat.java"
+   checksum="db1365e0d8a32c4335a292b89ac48f66"
+   last-author="omalley"
+   committed-rev="1077033"
+   text-time="2011-03-04T03:34:19.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:34:19.333764Z"/>
+<entry
+   name="SequenceFileAsBinaryOutputFormat.java"
+   checksum="0b43013d896c35952af55db8f79481a3"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="SequenceFileOutputFormat.java"
+   checksum="72bac6c59c50df00603a5a1c9774ce1e"
+   last-author="omalley"
+   committed-rev="729055"
+   text-time="2008-12-23T18:22:48.000000Z"
+   kind="file"
+   committed-date="2008-12-23T18:22:48.516639Z"/>
+<entry
+   name="TextOutputFormat.java"
+   checksum="316cd046402ebf46f3c6e8bb9d77d9d4"
+   last-author="omalley"
+   committed-rev="729055"
+   text-time="2008-12-23T18:22:48.000000Z"
+   kind="file"
+   committed-date="2008-12-23T18:22:48.516639Z"/>
+</wc-entries>

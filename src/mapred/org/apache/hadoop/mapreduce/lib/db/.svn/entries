@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="tomwhite"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/lib/db"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1235548"
+   kind="dir"
+   committed-date="2012-01-24T23:21:58.562154Z"/>
+<entry
+   name="BigDecimalSplitter.java"
+   checksum="ccc8e6063568e9dbed0c92ab10475316"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="BooleanSplitter.java"
+   checksum="92f34312bf9c7cad6cd4dff271a62e75"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DBConfiguration.java"
+   checksum="9ca79d82e69c2d78a4ba4faf14bbd9de"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DBInputFormat.java"
+   checksum="f09c5ce6fa939004f993bd7ad7ff4ac9"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DBOutputFormat.java"
+   checksum="6a5e2ee4994a95c99a78db7f5a9aec50"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DBRecordReader.java"
+   checksum="bc49ebefe3ec6f0ac8238824366e4bfc"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DBSplitter.java"
+   checksum="22ef7f62e0659481f3e4c993589edcb6"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DBWritable.java"
+   checksum="5533a1b4b7b03a37543141f184a3c584"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DataDrivenDBInputFormat.java"
+   checksum="cfe068d87f045302268d65c83c53b589"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DataDrivenDBRecordReader.java"
+   checksum="2a1fb6472edfdfbd31081c7940567ea2"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DateSplitter.java"
+   checksum="c7be3c86bdef9cd02d4add842be20cf4"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="FloatSplitter.java"
+   checksum="9677f0ec4df21973e4a179ebe6b57664"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="IntegerSplitter.java"
+   checksum="5593262f7f3ea4186b25479556361855"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="MySQLDBRecordReader.java"
+   checksum="49f9b1f75cb745d9831d94b06749cac7"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="MySQLDataDrivenDBRecordReader.java"
+   checksum="f743569ee2c282038b2fb9c11772ad80"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="OracleDBRecordReader.java"
+   checksum="77f33f65a2e113a3ddcc79b8037a9edf"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="OracleDataDrivenDBInputFormat.java"
+   checksum="96c2f1c72c3572a1871b2fd6a21dc47c"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="OracleDataDrivenDBRecordReader.java"
+   checksum="a0056451b3e03225b77ebdeaffaa6669"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="OracleDateSplitter.java"
+   checksum="14d5956c22c117df1a20d8c5c9b08e56"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="TextSplitter.java"
+   checksum="2fb360b954e22f1dc6944d1094d9a21b"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+</wc-entries>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="cdouglas"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapred/join"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="759031"
+   kind="dir"
+   committed-date="2009-03-27T06:22:44.256651Z"/>
+<entry
+   name="ArrayListBackedIterator.java"
+   checksum="0d20b0d49c859b0077d7c0b436747175"
+   last-author="cdouglas"
+   committed-rev="681235"
+   text-time="2008-07-30T22:45:41.000000Z"
+   kind="file"
+   committed-date="2008-07-30T22:45:41.698887Z"/>
+<entry
+   name="ComposableInputFormat.java"
+   checksum="5c169c324f68cf9092ec81e1a2ae565d"
+   last-author="omalley"
+   committed-rev="602240"
+   text-time="2007-12-07T22:01:32.000000Z"
+   kind="file"
+   committed-date="2007-12-07T22:01:32.769863Z"/>
+<entry
+   name="ComposableRecordReader.java"
+   checksum="4815217debaaae1e1327604bdd11d54f"
+   last-author="omalley"
+   committed-rev="628524"
+   text-time="2008-02-17T18:13:02.000000Z"
+   kind="file"
+   committed-date="2008-02-17T18:13:02.877364Z"/>
+<entry
+   name="CompositeInputFormat.java"
+   checksum="55d182be668eb6fc4060176e34dc6024"
+   last-author="omalley"
+   committed-rev="685348"
+   text-time="2008-08-12T22:25:22.000000Z"
+   kind="file"
+   committed-date="2008-08-12T22:25:22.793385Z"/>
+<entry
+   name="CompositeInputSplit.java"
+   checksum="ebfcd93f9fd9724bccc40dcd78232bc4"
+   last-author="cdouglas"
+   committed-rev="681235"
+   text-time="2008-07-30T22:45:41.000000Z"
+   kind="file"
+   committed-date="2008-07-30T22:45:41.698887Z"/>
+<entry
+   name="CompositeRecordReader.java"
+   checksum="199849ad1de5de141194d5d1f1c7f660"
+   last-author="cdouglas"
+   committed-rev="681235"
+   text-time="2008-07-30T22:45:41.000000Z"
+   kind="file"
+   committed-date="2008-07-30T22:45:41.698887Z"/>
+<entry
+   name="InnerJoinRecordReader.java"
+   checksum="cb8c924b4bcc481a82b70e4e3a9b8feb"
+   last-author="omalley"
+   committed-rev="602240"
+   text-time="2007-12-07T22:01:32.000000Z"
+   kind="file"
+   committed-date="2007-12-07T22:01:32.769863Z"/>
+<entry
+   name="JoinRecordReader.java"
+   checksum="bfb0d6c64c81774e4ed28d117385df4b"
+   last-author="cdouglas"
+   committed-rev="675806"
+   text-time="2008-07-10T23:22:31.000000Z"
+   kind="file"
+   committed-date="2008-07-10T23:22:31.622759Z"/>
+<entry
+   name="MultiFilterRecordReader.java"
+   checksum="c4f73df1096dfcccfdaf212bbcb93268"
+   last-author="cdouglas"
+   committed-rev="675806"
+   text-time="2008-07-10T23:22:31.000000Z"
+   kind="file"
+   committed-date="2008-07-10T23:22:31.622759Z"/>
+<entry
+   name="OuterJoinRecordReader.java"
+   checksum="b2b44d576f3256f10d57a9fe23eeae7d"
+   last-author="omalley"
+   committed-rev="602240"
+   text-time="2007-12-07T22:01:32.000000Z"
+   kind="file"
+   committed-date="2007-12-07T22:01:32.769863Z"/>
+<entry
+   name="OverrideRecordReader.java"
+   checksum="46028706755c3049a3df06c30bcff2b8"
+   last-author="omalley"
+   committed-rev="602240"
+   text-time="2007-12-07T22:01:32.000000Z"
+   kind="file"
+   committed-date="2007-12-07T22:01:32.769863Z"/>
+<entry
+   name="Parser.java"
+   checksum="921a67704c13ea48ae1934b6de539dc7"
+   last-author="cdouglas"
+   committed-rev="688960"
+   text-time="2008-08-26T05:12:52.000000Z"
+   kind="file"
+   committed-date="2008-08-26T05:12:52.430861Z"/>
+<entry
+   name="ResetableIterator.java"
+   checksum="79f61308ada209e520e6199b72d3c06c"
+   last-author="cdouglas"
+   committed-rev="675806"
+   text-time="2008-07-10T23:22:31.000000Z"
+   kind="file"
+   committed-date="2008-07-10T23:22:31.622759Z"/>
+<entry
+   name="StreamBackedIterator.java"
+   checksum="2b6cecd4980eba287f22da08bdd158e2"
+   last-author="cdouglas"
+   committed-rev="675806"
+   text-time="2008-07-10T23:22:31.000000Z"
+   kind="file"
+   committed-date="2008-07-10T23:22:31.622759Z"/>
+<entry
+   name="TupleWritable.java"
+   checksum="060771c8d0f234e703b78846746e9c08"
+   last-author="cdouglas"
+   committed-rev="759031"
+   text-time="2009-03-27T06:22:44.000000Z"
+   kind="file"
+   committed-date="2009-03-27T06:22:44.256651Z"/>
+<entry
+   name="WrappedRecordReader.java"
+   checksum="b6643a10e3d9bd39f8738353afec69d5"
+   last-author="omalley"
+   committed-rev="628524"
+   text-time="2008-02-17T18:13:02.000000Z"
+   kind="file"
+   committed-date="2008-02-17T18:13:02.877364Z"/>
+<entry
+   name="package.html"
+   checksum="2b688a6b43c81ce7d77e8ee29b7ef182"
+   last-author="nigel"
+   committed-rev="616659"
+   text-time="2008-01-30T06:51:01.000000Z"
+   kind="file"
+   committed-date="2008-01-30T06:51:01.401065Z"/>
+</wc-entries>

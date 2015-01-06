@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="omalley"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapred/pipes"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1077720"
+   kind="dir"
+   committed-date="2011-03-04T04:48:01.530801Z"/>
+<entry
+   name="Application.java"
+   checksum="651eed3e554176e2c8df6e06128f24e0"
+   last-author="omalley"
+   committed-rev="1077720"
+   text-time="2011-03-04T04:48:01.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:48:01.530801Z"/>
+<entry
+   name="BinaryProtocol.java"
+   checksum="4d10525efb7b77af44324f7f1f16d9ce"
+   last-author="omalley"
+   committed-rev="1077456"
+   text-time="2011-03-04T04:16:53.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:16:53.833684Z"/>
+<entry
+   name="DownwardProtocol.java"
+   checksum="0b5ed6d80ca7eedc518ddbae9bf16c90"
+   last-author="omalley"
+   committed-rev="1077456"
+   text-time="2011-03-04T04:16:53.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:16:53.833684Z"/>
+<entry
+   name="OutputHandler.java"
+   checksum="3cc7b0e42b2a216f132c6a0100981eb5"
+   last-author="omalley"
+   committed-rev="1077456"
+   text-time="2011-03-04T04:16:53.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:16:53.833684Z"/>
+<entry
+   name="PipesMapRunner.java"
+   checksum="b33761595fa4f0ccdf53fa70a91d3ee7"
+   last-author="omalley"
+   committed-rev="689635"
+   text-time="2008-08-27T21:54:00.000000Z"
+   kind="file"
+   committed-date="2008-08-27T21:54:00.889418Z"/>
+<entry
+   name="PipesNonJavaInputFormat.java"
+   checksum="1a1c9dac6bd97c5e2e65666c5e4889ee"
+   last-author="cdouglas"
+   committed-rev="700589"
+   text-time="2008-09-30T21:49:02.000000Z"
+   kind="file"
+   committed-date="2008-09-30T21:49:02.000263Z"/>
+<entry
+   name="PipesPartitioner.java"
+   checksum="013cbd3727dda809dad6ff813da34ba7"
+   last-author="cdouglas"
+   committed-rev="681235"
+   text-time="2008-07-30T22:45:41.000000Z"
+   kind="file"
+   committed-date="2008-07-30T22:45:41.698887Z"/>
+<entry
+   name="PipesReducer.java"
+   checksum="d8d31c31cb612ae163bdaa26d35c9ec6"
+   last-author="omalley"
+   committed-rev="689635"
+   text-time="2008-08-27T21:54:00.000000Z"
+   kind="file"
+   committed-date="2008-08-27T21:54:00.889418Z"/>
+<entry
+   name="Submitter.java"
+   checksum="6dabd400a872a65a5c188e755fc1d3e3"
+   last-author="omalley"
+   committed-rev="808658"
+   text-time="2009-08-27T22:05:37.000000Z"
+   kind="file"
+   committed-date="2009-08-27T22:05:37.767709Z"/>
+<entry
+   name="UpwardProtocol.java"
+   checksum="7b4dac7af4282c8cd05b00b58a8df210"
+   last-author="omalley"
+   committed-rev="1077456"
+   text-time="2011-03-04T04:16:53.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:16:53.833684Z"/>
+<entry
+   name="package.html"
+   checksum="4019f745b27626e54fb40f6a5e3af379"
+   last-author="ddas"
+   committed-rev="705215"
+   text-time="2008-10-16T11:59:06.000000Z"
+   kind="file"
+   committed-date="2008-10-16T11:59:06.728656Z"/>
+</wc-entries>

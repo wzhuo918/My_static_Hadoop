@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="omalley"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/ant/org/apache/hadoop/ant"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1098818"
+   kind="dir"
+   committed-date="2011-05-02T22:40:04.913485Z"/>
+<entry
+   name="DfsTask.java"
+   checksum="0460ecdbda81a95f12d65a7efd2d0ab9"
+   last-author="cdouglas"
+   committed-rev="683432"
+   text-time="2008-08-06T22:30:47.000000Z"
+   kind="file"
+   committed-date="2008-08-06T22:30:47.108826Z"/>
+<entry
+   name="antlib.xml"
+   checksum="29a773f1d990bcf2509e622a78f5cfc3"
+   last-author="cutting"
+   committed-rev="550942"
+   text-time="2007-06-26T20:50:01.000000Z"
+   kind="file"
+   committed-date="2007-06-26T20:50:01.183994Z"/>
+<entry
+   name="condition"
+   kind="dir"/>
+</wc-entries>

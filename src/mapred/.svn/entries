@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="llu"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1425185"
+   kind="dir"
+   committed-date="2012-12-21T23:19:09.600251Z"
+   prop-time="2013-11-01T09:08:24.000000Z"/>
+<entry
+   name="mapred-default.xml"
+   checksum="d37a622d1d75804c9eb91ab6d514064a"
+   last-author="acmurthy"
+   committed-rev="1389977"
+   text-time="2012-09-25T16:32:22.000000Z"
+   kind="file"
+   committed-date="2012-09-25T16:32:22.646032Z"/>
+<entry
+   name="org"
+   kind="dir"/>
+</wc-entries>

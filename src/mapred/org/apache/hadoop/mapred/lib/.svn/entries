@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="acmurthy"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapred/lib"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1424817"
+   kind="dir"
+   committed-date="2012-12-21T07:41:29.085269Z"/>
+<entry
+   name="BinaryPartitioner.java"
+   checksum="fbb08708e31cc3e56f85bbe2cbe7647a"
+   last-author="acmurthy"
+   committed-rev="1306984"
+   text-time="2012-03-29T16:52:08.000000Z"
+   kind="file"
+   committed-date="2012-03-29T16:52:08.517150Z"/>
+<entry
+   name="Chain.java"
+   checksum="84180be7c8b22132569971e3e84aa9df"
+   last-author="omalley"
+   committed-rev="700291"
+   text-time="2008-09-29T22:36:07.000000Z"
+   kind="file"
+   committed-date="2008-09-29T22:36:07.501813Z"/>
+<entry
+   name="ChainMapper.java"
+   checksum="5548d79b6538cec3f0b67889d5f8da02"
+   last-author="ddas"
+   committed-rev="693460"
+   text-time="2008-09-09T13:18:43.000000Z"
+   kind="file"
+   committed-date="2008-09-09T13:18:43.879819Z"/>
+<entry
+   name="ChainReducer.java"
+   checksum="72a0e8a45762dcda8ba234f1cd7dee80"
+   last-author="ddas"
+   committed-rev="693460"
+   text-time="2008-09-09T13:18:43.000000Z"
+   kind="file"
+   committed-date="2008-09-09T13:18:43.879819Z"/>
+<entry
+   name="CombineFileInputFormat.java"
+   checksum="eb92784e4cde562dfe3a36dd98fbf9af"
+   last-author="acmurthy"
+   committed-rev="1099090"
+   text-time="2011-05-03T15:13:58.000000Z"
+   kind="file"
+   committed-date="2011-05-03T15:13:58.375321Z"/>
+<entry
+   name="CombineFileRecordReader.java"
+   checksum="3fb17b347dbd2efd7f0214c2f545d477"
+   last-author="zshao"
+   committed-rev="740402"
+   text-time="2009-02-03T20:03:35.000000Z"
+   kind="file"
+   committed-date="2009-02-03T20:03:35.623680Z"/>
+<entry
+   name="CombineFileSplit.java"
+   checksum="fce349328906e705546b5153db0d64e5"
+   last-author="dhruba"
+   committed-rev="742702"
+   text-time="2009-02-09T19:44:26.000000Z"
+   kind="file"
+   committed-date="2009-02-09T19:44:26.102158Z"/>
+<entry
+   name="DelegatingInputFormat.java"
+   checksum="6d3cc7db8149c6ffe0740bc0dc290060"
+   last-author="nigel"
+   committed-rev="697156"
+   text-time="2008-09-19T17:23:59.000000Z"
+   kind="file"
+   committed-date="2008-09-19T17:23:59.411877Z"/>
+<entry
+   name="DelegatingMapper.java"
+   checksum="e83a8d08eebadd29c4d18c4eb22d0e67"
+   last-author="nigel"
+   committed-rev="697156"
+   text-time="2008-09-19T17:23:59.000000Z"
+   kind="file"
+   committed-date="2008-09-19T17:23:59.411877Z"/>
+<entry
+   name="FieldSelectionMapReduce.java"
+   checksum="624edeb02c37abaf6fdaf6c9bb217424"
+   last-author="tomwhite"
+   committed-rev="632073"
+   text-time="2008-02-28T17:46:49.000000Z"
+   kind="file"
+   committed-date="2008-02-28T17:46:49.512870Z"/>
+<entry
+   name="HashPartitioner.java"
+   checksum="fa9987be4e5a33365abe71a9ade4247d"
+   last-author="acmurthy"
+   committed-rev="1169942"
+   text-time="2011-09-12T21:32:20.000000Z"
+   kind="file"
+   committed-date="2011-09-12T21:32:20.048481Z"/>
+<entry
+   name="IdentityMapper.java"
+   checksum="86a0b77c680d1d29c15bbe3891600d1c"
+   last-author="acmurthy"
+   committed-rev="1169942"
+   text-time="2011-09-12T21:32:20.000000Z"
+   kind="file"
+   committed-date="2011-09-12T21:32:20.048481Z"/>
+<entry
+   name="IdentityReducer.java"
+   checksum="491d3bc5f04ee626702dfef5009b16b6"
+   last-author="acmurthy"
+   committed-rev="1169942"
+   text-time="2011-09-12T21:32:20.000000Z"
+   kind="file"
+   committed-date="2011-09-12T21:32:20.048481Z"/>
+<entry
+   name="InputSampler.java"
+   checksum="b0c842300c8d2b5b0ac97483e1fbc5a1"
+   last-author="omalley"
+   committed-rev="699092"
+   text-time="2008-09-25T21:11:03.000000Z"
+   kind="file"
+   committed-date="2008-09-25T21:11:03.213103Z"/>
+<entry
+   name="InverseMapper.java"
+   checksum="63140c5328c9d0e7dee2f1d0c883f905"
+   last-author="acmurthy"
+   committed-rev="1169942"
+   text-time="2011-09-12T21:32:20.000000Z"
+   kind="file"
+   committed-date="2011-09-12T21:32:20.048481Z"/>
+<entry
+   name="KeyFieldBasedComparator.java"
+   checksum="984f62249a296d6d6c1d035eda2093da"
+   last-author="ddas"
+   committed-rev="778964"
+   text-time="2009-05-27T02:20:51.000000Z"
+   kind="file"
+   committed-date="2009-05-27T02:20:51.252825Z"/>
+<entry
+   name="KeyFieldBasedPartitioner.java"
+   checksum="58fbc1c6bd2be2b552bcd24cffeb6a87"
+   last-author="omalley"
+   committed-rev="1076967"
+   text-time="2011-03-04T03:26:40.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:26:40.567488Z"/>
+<entry
+   name="KeyFieldHelper.java"
+   checksum="d2d876adff553f3e70dbf273cfaa2591"
+   last-author="omalley"
+   committed-rev="1076967"
+   text-time="2011-03-04T03:26:40.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:26:40.567488Z"/>
+<entry
+   name="LongSumReducer.java"
+   checksum="26ee28e601577cfe23a23c5e7ea06352"
+   last-author="acmurthy"
+   committed-rev="1169942"
+   text-time="2011-09-12T21:32:20.000000Z"
+   kind="file"
+   committed-date="2011-09-12T21:32:20.048481Z"/>
+<entry
+   name="MultipleInputs.java"
+   checksum="3306c14d5ef0afff006d741a4f22c02f"
+   last-author="johan"
+   committed-rev="685227"
+   text-time="2008-08-12T17:02:44.000000Z"
+   kind="file"
+   committed-date="2008-08-12T17:02:44.928682Z"/>
+<entry
+   name="MultipleOutputFormat.java"
+   checksum="a0bc30accebe500e11ed6ea307044b50"
+   last-author="cdouglas"
+   committed-rev="673215"
+   text-time="2008-07-01T21:24:33.000000Z"
+   kind="file"
+   committed-date="2008-07-01T21:24:33.159834Z"/>
+<entry
+   name="MultipleOutputs.java"
+   checksum="73b9a2168cbaabfb99680f790e953e67"
+   last-author="szetszwo"
+   committed-rev="720930"
+   text-time="2008-11-26T18:17:24.000000Z"
+   kind="file"
+   committed-date="2008-11-26T18:17:24.325657Z"/>
+<entry
+   name="MultipleSequenceFileOutputFormat.java"
+   checksum="0dc64e369567a5203a11c00213f295df"
+   last-author="cdouglas"
+   committed-rev="681235"
+   text-time="2008-07-30T22:45:41.000000Z"
+   kind="file"
+   committed-date="2008-07-30T22:45:41.698887Z"/>
+<entry
+   name="MultipleTextOutputFormat.java"
+   checksum="ba4f1a2825d0c46df3ce0c004b0559ea"
+   last-author="omalley"
+   committed-rev="664159"
+   text-time="2008-06-06T22:18:48.000000Z"
+   kind="file"
+   committed-date="2008-06-06T22:18:48.929944Z"/>
+<entry
+   name="MultithreadedMapRunner.java"
+   checksum="f09311311451370137b3115084301d5a"
+   last-author="omalley"
+   committed-rev="1077338"
+   text-time="2011-03-04T04:04:58.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:04:58.607625Z"/>
+<entry
+   name="NLineInputFormat.java"
+   checksum="b71e362cbe9da329afabb706b2bc3180"
+   last-author="acmurthy"
+   committed-rev="1424817"
+   text-time="2012-12-21T07:41:29.000000Z"
+   kind="file"
+   committed-date="2012-12-21T07:41:29.085269Z"/>
+<entry
+   name="NullOutputFormat.java"
+   checksum="de074f62986b3e333a8227abeb072aec"
+   last-author="acmurthy"
+   committed-rev="1169942"
+   text-time="2011-09-12T21:32:20.000000Z"
+   kind="file"
+   committed-date="2011-09-12T21:32:20.048481Z"/>
+<entry
+   name="RegexMapper.java"
+   checksum="114744e090f68a8809ebdab5cb3df6a7"
+   last-author="tomwhite"
+   committed-rev="632073"
+   text-time="2008-02-28T17:46:49.000000Z"
+   kind="file"
+   committed-date="2008-02-28T17:46:49.512870Z"/>
+<entry
+   name="TaggedInputSplit.java"
+   checksum="662151fc6f851dfc0f4eef695670590e"
+   last-author="nigel"
+   committed-rev="697156"
+   text-time="2008-09-19T17:23:59.000000Z"
+   kind="file"
+   committed-date="2008-09-19T17:23:59.411877Z"/>
+<entry
+   name="TokenCountMapper.java"
+   checksum="55968939325d8f90d809c99036f995bc"
+   last-author="acmurthy"
+   committed-rev="1169942"
+   text-time="2011-09-12T21:32:20.000000Z"
+   kind="file"
+   committed-date="2011-09-12T21:32:20.048481Z"/>
+<entry
+   name="TotalOrderPartitioner.java"
+   checksum="7392fb6a900f42b020008755ba3aad64"
+   last-author="omalley"
+   committed-rev="697283"
+   text-time="2008-09-19T23:39:09.000000Z"
+   kind="file"
+   committed-date="2008-09-19T23:39:09.815488Z"/>
+<entry
+   name="aggregate"
+   kind="dir"/>
+<entry
+   name="db"
+   kind="dir"/>
+<entry
+   name="package.html"
+   checksum="39ea1200d8832e727150f84c1fede9ae"
+   last-author="nigel"
+   committed-rev="616659"
+   text-time="2008-01-30T06:51:01.000000Z"
+   kind="file"
+   committed-date="2008-01-30T06:51:01.401065Z"/>
+</wc-entries>

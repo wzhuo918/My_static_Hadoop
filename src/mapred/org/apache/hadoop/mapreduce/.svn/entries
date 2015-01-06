@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="bobby"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1407516"
+   kind="dir"
+   committed-date="2012-11-09T16:01:48.792513Z"/>
+<entry
+   name="ClusterMetrics.java"
+   checksum="a790f2d2b02bbf1848847648ec794a2f"
+   last-author="omalley"
+   committed-rev="1077596"
+   text-time="2011-03-04T04:33:31.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:33:31.085473Z"/>
+<entry
+   name="Counter.java"
+   checksum="4b1e62000ccb2762f9f7a2c41b6fd9be"
+   last-author="amarrk"
+   committed-rev="1176835"
+   text-time="2011-09-28T11:49:34.000000Z"
+   kind="file"
+   committed-date="2011-09-28T11:49:34.478927Z"/>
+<entry
+   name="CounterGroup.java"
+   checksum="8999844a20b501d79136f0ef7ea96cbd"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="Counters.java"
+   checksum="5f89ffa4eb93fd7a4779469eb657b6c2"
+   last-author="omalley"
+   committed-rev="1077515"
+   text-time="2011-03-04T04:22:59.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:22:59.917620Z"/>
+<entry
+   name="ID.java"
+   checksum="6900ae06a6b14f4617973b363429b1b3"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="InputFormat.java"
+   checksum="2d00a35e8b5c3cdaf74b3fa7d174d8d9"
+   last-author="ddas"
+   committed-rev="735779"
+   text-time="2009-01-19T19:32:12.000000Z"
+   kind="file"
+   committed-date="2009-01-19T19:32:12.275229Z"/>
+<entry
+   name="InputSplit.java"
+   checksum="95c54e59e58ea4aafe0db9f75f362a1f"
+   last-author="omalley"
+   committed-rev="681202"
+   text-time="2008-07-30T21:05:40.000000Z"
+   kind="file"
+   committed-date="2008-07-30T21:05:40.984404Z"/>
+<entry
+   name="Job.java"
+   checksum="ddd88ccdbd5a4f8e29ea4ec74f5267f4"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"/>
+<entry
+   name="JobACL.java"
+   checksum="b76b6dd1480792dd46e1966f4a02c771"
+   last-author="omalley"
+   committed-rev="1077246"
+   text-time="2011-03-04T03:55:43.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:55:43.842815Z"/>
+<entry
+   name="JobContext.java"
+   checksum="0a5b4f759691d86bba8ae95d1d41472a"
+   last-author="cdouglas"
+   committed-rev="1087539"
+   text-time="2011-04-01T01:27:06.000000Z"
+   kind="file"
+   committed-date="2011-04-01T01:27:06.695329Z"/>
+<entry
+   name="JobID.java"
+   checksum="a50b645db65d5c61229cc6d4155954a3"
+   last-author="omalley"
+   committed-rev="1077631"
+   text-time="2011-03-04T04:38:25.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:38:25.177799Z"/>
+<entry
+   name="JobStatus.java"
+   checksum="d9664cf99813d2c9505f22da410f30fe"
+   last-author="omalley"
+   committed-rev="1077033"
+   text-time="2011-03-04T03:34:19.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:34:19.333764Z"/>
+<entry
+   name="JobSubmissionFiles.java"
+   checksum="40e39e522ca827c5086be258eb090a7e"
+   last-author="omalley"
+   committed-rev="1077416"
+   text-time="2011-03-04T04:12:39.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:12:39.281053Z"/>
+<entry
+   name="MapContext.java"
+   checksum="e40ac0f5823e636b0b6097f04e6574b7"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="Mapper.java"
+   checksum="00b4c167387bd6c37bdacc345d0c3d47"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="OutputCommitter.java"
+   checksum="cc34acbfed80039b2ab029600983b8ab"
+   last-author="omalley"
+   committed-rev="1077033"
+   text-time="2011-03-04T03:34:19.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:34:19.333764Z"/>
+<entry
+   name="OutputFormat.java"
+   checksum="b050bd59804bf4d450b86cb44ab7165c"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="Partitioner.java"
+   checksum="700ab4ba5c93a2df4ffb9129248c0b64"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="RecordReader.java"
+   checksum="61b379bead356e4efc5daf599575010a"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="RecordWriter.java"
+   checksum="8cf955dc925830fb8bba92df6c80179a"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="ReduceContext.java"
+   checksum="afd6d7dbe848f897c7c4828af4925a3b"
+   last-author="omalley"
+   committed-rev="1077001"
+   text-time="2011-03-04T03:29:23.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:29:23.920319Z"/>
+<entry
+   name="Reducer.java"
+   checksum="9238da24da1c07c2085859b61b644853"
+   last-author="omalley"
+   committed-rev="1077001"
+   text-time="2011-03-04T03:29:23.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:29:23.920319Z"/>
+<entry
+   name="StatusReporter.java"
+   checksum="9953d27890b59c4b247c1bbc689ed2a8"
+   last-author="amarrk"
+   committed-rev="1185694"
+   text-time="2011-10-18T14:45:48.000000Z"
+   kind="file"
+   committed-date="2011-10-18T14:45:48.383653Z"/>
+<entry
+   name="TaskAttemptContext.java"
+   checksum="58a3e176f94711cee4b052a02845dc25"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="TaskAttemptID.java"
+   checksum="096a9d4a5754127536491ee3d527f1c5"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="TaskID.java"
+   checksum="1695ba51fe1b81e23a6b89201d2547df"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="TaskInputOutputContext.java"
+   checksum="c24a8289f1b2119e2659bc9fbab95f15"
+   last-author="amarrk"
+   committed-rev="1185694"
+   text-time="2011-10-18T14:45:48.000000Z"
+   kind="file"
+   committed-date="2011-10-18T14:45:48.383653Z"/>
+<entry
+   name="TaskType.java"
+   checksum="b0ef50eee48f3961fca01565889168a2"
+   last-author="omalley"
+   committed-rev="1076949"
+   text-time="2011-03-04T03:25:10.000000Z"
+   kind="file"
+   committed-date="2011-03-04T03:25:10.221455Z"/>
+<entry
+   name="example"
+   kind="dir"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   name="security"
+   kind="dir"/>
+<entry
+   name="server"
+   kind="dir"/>
+<entry
+   name="split"
+   kind="dir"/>
+</wc-entries>

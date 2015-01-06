@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="bobby"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/lib/input"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1407516"
+   kind="dir"
+   committed-date="2012-11-09T16:01:48.792513Z"/>
+<entry
+   name="CombineFileInputFormat.java"
+   checksum="5238f8486457222e537a1c407454098d"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="CombineFileRecordReader.java"
+   checksum="ec65a9ef30f495c6888df6fb9ddb4dca"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="CombineFileSplit.java"
+   checksum="eac4525aa88f13a812b1d184c7b6b654"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DelegatingInputFormat.java"
+   checksum="d76258b8d4eb0e793299f0d4af28caf0"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DelegatingMapper.java"
+   checksum="45c6a397bb726768fb956db0a6590868"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="DelegatingRecordReader.java"
+   checksum="280b89924cae656b4d2ecd662f8f8bb0"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="FileInputFormat.java"
+   checksum="ece8bdb2cfefc2196194093bfab9f2e0"
+   last-author="harsh"
+   committed-rev="1331686"
+   text-time="2012-04-28T04:28:07.000000Z"
+   kind="file"
+   committed-date="2012-04-28T04:28:07.551287Z"/>
+<entry
+   name="FileInputFormat_Counter.properties"
+   checksum="21706b07a6a1daf6c1865178b30b98f0"
+   last-author="omalley"
+   committed-rev="1077777"
+   text-time="2011-03-04T04:54:19.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:54:19.623240Z"/>
+<entry
+   name="FileSplit.java"
+   checksum="4b461015166b8dc10ff75a97277beeb1"
+   last-author="omalley"
+   committed-rev="681202"
+   text-time="2008-07-30T21:05:40.000000Z"
+   kind="file"
+   committed-date="2008-07-30T21:05:40.984404Z"/>
+<entry
+   name="InvalidInputException.java"
+   checksum="5bf04e7a4e8a5171dcd7a31fc89f0e8c"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="KeyValueLineRecordReader.java"
+   checksum="24e8008df965b28398f02e45c193e13a"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="KeyValueTextInputFormat.java"
+   checksum="997ea90c9671237445bcbcd51d6ffaba"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="LineRecordReader.java"
+   checksum="9c3263f2a144358aa62ae9d3a04e800b"
+   last-author="cdouglas"
+   committed-rev="1363536"
+   text-time="2012-07-19T20:47:48.000000Z"
+   kind="file"
+   committed-date="2012-07-19T20:47:48.496590Z"/>
+<entry
+   name="MultipleInputs.java"
+   checksum="02f000cbd4731cb838fe98ddfdb4a77e"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="NLineInputFormat.java"
+   checksum="cb1c7aaccc7dc280e8049abe8f3e299a"
+   last-author="bobby"
+   committed-rev="1407516"
+   text-time="2012-11-09T16:01:48.000000Z"
+   kind="file"
+   committed-date="2012-11-09T16:01:48.792513Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="SequenceFileAsBinaryInputFormat.java"
+   checksum="f40eb4ef6225854e90aa75977b658a68"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="SequenceFileAsTextInputFormat.java"
+   checksum="a88c88108b233393627d1257e7bcdefe"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="SequenceFileAsTextRecordReader.java"
+   checksum="1f72ee1dc3174919ec8ec879d57ca4c2"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="SequenceFileInputFilter.java"
+   checksum="19534285191ca352ccddd6dd8785a05b"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="SequenceFileInputFormat.java"
+   checksum="4ebf95f4e362a9fb8536087e5868df29"
+   last-author="omalley"
+   committed-rev="729055"
+   text-time="2008-12-23T18:22:48.000000Z"
+   kind="file"
+   committed-date="2008-12-23T18:22:48.516639Z"/>
+<entry
+   name="SequenceFileRecordReader.java"
+   checksum="480b4bbbd073b81a6485be586da6c141"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="TaggedInputSplit.java"
+   checksum="0ddb61ccd1e0483070123f22882aa40b"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="TextInputFormat.java"
+   checksum="606c33704e2962a10821d02d1658e0e6"
+   last-author="cdouglas"
+   committed-rev="1363536"
+   text-time="2012-07-19T20:47:48.000000Z"
+   kind="file"
+   committed-date="2012-07-19T20:47:48.496590Z"/>
+</wc-entries>

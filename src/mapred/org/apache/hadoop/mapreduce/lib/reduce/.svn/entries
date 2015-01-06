@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="omalley"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/lib/reduce"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="726850"
+   kind="dir"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="IntSumReducer.java"
+   checksum="a25036dc5cc66c8fb79d3abeb4c16fe8"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+<entry
+   name="LongSumReducer.java"
+   checksum="31e71a343abf3ba308a3dc58afab9d2f"
+   last-author="omalley"
+   committed-rev="726850"
+   text-time="2008-12-15T22:21:32.000000Z"
+   kind="file"
+   committed-date="2008-12-15T22:21:32.751489Z"/>
+</wc-entries>

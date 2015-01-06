@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="omalley"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapred/jobcontrol"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1077726"
+   kind="dir"
+   committed-date="2011-03-04T04:48:41.966895Z"/>
+<entry
+   name="Job.java"
+   checksum="3beff3901a281628b81c89d36289a1f5"
+   last-author="omalley"
+   committed-rev="1077726"
+   text-time="2011-03-04T04:48:41.000000Z"
+   kind="file"
+   committed-date="2011-03-04T04:48:41.966895Z"/>
+<entry
+   name="JobControl.java"
+   checksum="519af7cf965f71722a495e260e667737"
+   last-author="szetszwo"
+   committed-rev="720930"
+   text-time="2008-11-26T18:17:24.000000Z"
+   kind="file"
+   committed-date="2008-11-26T18:17:24.325657Z"/>
+<entry
+   name="package.html"
+   checksum="43b4e960ac232025cb6cf48ff9de8537"
+   last-author="nigel"
+   committed-rev="616659"
+   text-time="2008-01-30T06:51:01.000000Z"
+   kind="file"
+   committed-date="2008-01-30T06:51:01.401065Z"/>
+</wc-entries>

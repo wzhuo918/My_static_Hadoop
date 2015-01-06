@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="eli"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapreduce/lib/partition"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="1325057"
+   kind="dir"
+   committed-date="2012-04-11T23:04:18.350912Z"/>
+<entry
+   name="BinaryPartitioner.java"
+   checksum="ccb1aabe9d86d45f59833f7d9162b06a"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="HashPartitioner.java"
+   checksum="5dfe561fd21788962390ffcf57796acd"
+   last-author="omalley"
+   committed-rev="681202"
+   text-time="2008-07-30T21:05:40.000000Z"
+   kind="file"
+   committed-date="2008-07-30T21:05:40.984404Z"/>
+<entry
+   name="InputSampler.java"
+   checksum="8fe6a68f22ab2b9794f09397ae40df7d"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="KeyFieldBasedComparator.java"
+   checksum="a80d387f5152a8b407ad910cb7a16608"
+   last-author="eli"
+   committed-rev="1325057"
+   text-time="2012-04-11T23:04:18.000000Z"
+   kind="file"
+   committed-date="2012-04-11T23:04:18.350912Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="KeyFieldBasedPartitioner.java"
+   checksum="210a3df139a34ea2764eb3bfebfdb563"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="KeyFieldHelper.java"
+   checksum="8ac0629394fb9be48e5081dd974a3fe5"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+<entry
+   name="TotalOrderPartitioner.java"
+   checksum="6ed3230f0da6e31d386b05147db09348"
+   last-author="tomwhite"
+   committed-rev="1235548"
+   text-time="2012-01-24T23:21:58.000000Z"
+   kind="file"
+   committed-date="2012-01-24T23:21:58.562154Z"
+   prop-time="2013-11-01T09:08:21.000000Z"/>
+</wc-entries>

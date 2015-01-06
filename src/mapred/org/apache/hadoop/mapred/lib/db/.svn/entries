@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://svn.apache.org/repos/asf"
+   name=""
+   revision="1537409"
+   last-author="enis"
+   url="http://svn.apache.org/repos/asf/hadoop/common/tags/release-1.1.2/src/mapred/org/apache/hadoop/mapred/lib/db"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="738483"
+   kind="dir"
+   committed-date="2009-01-28T13:42:51.233729Z"/>
+<entry
+   name="DBConfiguration.java"
+   checksum="eda7fc375f23ff206a8a11192847d2b0"
+   last-author="acmurthy"
+   committed-rev="697184"
+   text-time="2008-09-19T18:51:41.000000Z"
+   kind="file"
+   committed-date="2008-09-19T18:51:41.951636Z"/>
+<entry
+   name="DBInputFormat.java"
+   checksum="cd6df05a335c24c3d52b14ed79cd8c0d"
+   last-author="acmurthy"
+   committed-rev="697184"
+   text-time="2008-09-19T18:51:41.000000Z"
+   kind="file"
+   committed-date="2008-09-19T18:51:41.951636Z"/>
+<entry
+   name="DBOutputFormat.java"
+   checksum="8fed013363634916b1a866e09068b7de"
+   last-author="enis"
+   committed-rev="738483"
+   text-time="2009-01-28T13:42:51.000000Z"
+   kind="file"
+   committed-date="2009-01-28T13:42:51.233729Z"/>
+<entry
+   name="DBWritable.java"
+   checksum="3a25fc632a4e80fc8c6d16ec3be3dd3e"
+   last-author="acmurthy"
+   committed-rev="697184"
+   text-time="2008-09-19T18:51:41.000000Z"
+   kind="file"
+   committed-date="2008-09-19T18:51:41.951636Z"/>
+<entry
+   name="package.html"
+   checksum="9d9f49e5954d145501ff41463178fe81"
+   last-author="acmurthy"
+   committed-rev="697184"
+   text-time="2008-09-19T18:51:41.000000Z"
+   kind="file"
+   committed-date="2008-09-19T18:51:41.951636Z"/>
+</wc-entries>
